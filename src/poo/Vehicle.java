@@ -11,6 +11,10 @@ public class Vehicle {
         this.year = year;
     }
 
+    public void start() {
+        System.out.println("El vehiculo esta encendido");
+    }
+
     public int getYear() {
         return year;
     }
