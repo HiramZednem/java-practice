@@ -25,4 +25,5 @@ public class Main {
     public static void printVehicle(Vehicle vehicle) {
         System.out.println(vehicle.toString());
     }
+
 }
