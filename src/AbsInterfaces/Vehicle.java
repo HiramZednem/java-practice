@@ -5,11 +5,13 @@ public abstract class Vehicle {
     private String brand;
     private String model;
     private int year;
+    private Color color;
 
-    public Vehicle(String brand, String model, int year) {
+    public Vehicle(String brand, String model, int year, Color color) {
         this.brand = brand;
         this.model = model;
         this.year = year;
+        this.color = color;
     }
 
     public abstract void drive();
@@ -28,6 +30,7 @@ public abstract class Vehicle {
                 "brand='" + brand + '\'' +
                 ", model='" + model + '\'' +
                 ", year=" + year +
+                ", color=" + color +
                 '}';
     }
 

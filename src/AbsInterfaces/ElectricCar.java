@@ -1,8 +1,8 @@
 package AbsInterfaces;
 
 public class ElectricCar extends Vehicle implements Electric{
-    public ElectricCar(String brand, String model, int year) {
-        super(brand, model, year);
+    public ElectricCar(String brand, String model, int year, Color color) {
+        super(brand, model, year, color);
     }
 
     @Override
