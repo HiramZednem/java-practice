@@ -1,0 +1,4 @@
+Hi, my name is Hiram and currently I'm practicing to code in Java again
+I'm very excited that im using kind of functional programming without
+know exactly how it works here, only with the knowledge that i had
+of working with pull request, and reading java code.
