@@ -1,4 +1,4 @@
-package com.codqueto.exceptions.personalized;
+package com.codqueto.exceptions.personalized.checked;
 
 public class AgeValidator {
 
