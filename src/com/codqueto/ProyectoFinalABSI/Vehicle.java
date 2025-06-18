@@ -1,4 +1,4 @@
-package ProyectoFinalABSI;
+package com.codqueto.ProyectoFinalABSI;
 
 public abstract class Vehicle {
     private int numeroPuertas;

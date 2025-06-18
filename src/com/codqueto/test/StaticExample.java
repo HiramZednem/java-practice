@@ -1,4 +1,4 @@
-package test;
+package com.codqueto.test;
 
 public class StaticExample {
     static int counter = 0;

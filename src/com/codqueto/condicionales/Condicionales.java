@@ -1,4 +1,4 @@
-package condicionales;
+package com.codqueto.condicionales;
 
 public class Condicionales {
     public static void main(String[] args) {
@@ -44,7 +44,7 @@ public class Condicionales {
 
 
         // Esto nunca lo habia pensado xd, hay una forma muy chida
-        // de hacer que los condicionales sean mas facil de entender para otros desarrolladores...
+        // de hacer que los com.codqueto.condicionales sean mas facil de entender para otros desarrolladores...
         final byte grade = 4;
         final boolean isValid = grade >= 0 && grade <= 10;
         final boolean isApproved = grade >= 6;

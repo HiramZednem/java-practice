@@ -1,4 +1,4 @@
-package test;
+package com.codqueto.test;
 
 public class StaticExampleMain {
     public static void main(String[] args) {

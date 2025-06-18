@@ -1,4 +1,4 @@
-package constantes;
+package com.codqueto.constantes;
 
 public class PracticaConstantes {
     public static void main(String[] args) {

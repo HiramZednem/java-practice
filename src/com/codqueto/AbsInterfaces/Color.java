@@ -1,4 +1,4 @@
-package AbsInterfaces;
+package com.codqueto.AbsInterfaces;
 
 public enum Color {
     RED,

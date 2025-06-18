@@ -1,4 +1,4 @@
-package ProyectoFinalABSI;
+package com.codqueto.ProyectoFinalABSI;
 
 public class ElectricCar extends Vehicle implements Electric{
 

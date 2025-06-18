@@ -1,4 +1,4 @@
-package BankProject;
+package com.codqueto.BankProject;
 
 import java.util.Scanner;
 

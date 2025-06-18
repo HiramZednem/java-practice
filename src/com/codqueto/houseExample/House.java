@@ -1,4 +1,4 @@
-package houseExample;
+package com.codqueto.houseExample;
 
 public class House {
     private int windows;

@@ -1,4 +1,4 @@
-package AbsInterfaces;
+package com.codqueto.AbsInterfaces;
 
 public class ElectricCar extends Vehicle implements Electric{
     public ElectricCar(String brand, String model, int year, Color color) {

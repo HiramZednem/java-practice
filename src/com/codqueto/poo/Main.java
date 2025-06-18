@@ -1,4 +1,4 @@
-package poo;
+package com.codqueto.poo;
 
 public class Main {
 

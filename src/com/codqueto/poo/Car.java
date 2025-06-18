@@ -1,4 +1,4 @@
-package poo;
+package com.codqueto.poo;
 
 public class Car extends Vehicle {
     private int doors;

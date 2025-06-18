@@ -1,4 +1,4 @@
-package BankProject;
+package com.codqueto.BankProject;
 
 public class BankAccount {
     private double balance;

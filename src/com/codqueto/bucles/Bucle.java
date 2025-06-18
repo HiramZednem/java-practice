@@ -1,4 +1,4 @@
-package bucles;
+package com.codqueto.bucles;
 
 public class Bucle {
     public static void main(String[] args) {

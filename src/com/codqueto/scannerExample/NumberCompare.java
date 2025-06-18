@@ -1,4 +1,4 @@
-package scannerExample;
+package com.codqueto.scannerExample;
 
 import java.util.Scanner;
 

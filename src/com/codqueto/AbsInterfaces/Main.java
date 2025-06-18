@@ -1,4 +1,4 @@
-package AbsInterfaces;
+package com.codqueto.AbsInterfaces;
 
 public class Main {
     public static void main(String[] args) {
