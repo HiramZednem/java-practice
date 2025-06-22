@@ -14,7 +14,6 @@ public class Main {
 
         StudentRegistrationSystem system = new StudentRegistrationSystem();
 
-
         try {
             system.registerStudent("Hiram", 18, "A12346");
         } catch (Exception e) {
