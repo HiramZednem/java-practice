@@ -1,0 +1,5 @@
+[
+  {"name":"Hiram","age":23,"isStudent":true},
+  {"name":"Rodrigo","age":25,"isStudent":false},
+  {"name":"Miguel","age":33,"isStudent":true}
+]
