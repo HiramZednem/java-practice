@@ -5,6 +5,8 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+import java.util.List;
+
 
 @Getter
 @Setter
@@ -14,4 +16,5 @@ public class Persona {
     private String name;
     private Integer age;
     private boolean isStudent;
+    private String[] hobbies;
 }

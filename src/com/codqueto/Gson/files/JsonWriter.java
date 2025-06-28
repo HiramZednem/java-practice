@@ -8,9 +8,9 @@ import java.io.IOException;
 
 public class JsonWriter {
     public static void main(String[] args) {
-        Persona persona = new Persona("Hiram", 23, true);
+        Persona persona = new Persona("Hiram", 23, true, new String[]{"programar", "nadar", "llorar"});
 
-        Gson gson = new Gson();
+        Gson gson = new Gson().newBuilder().setPrettyPrinting().create();
 
         try (
                 FileWriter writer = new FileWriter("persona.json");

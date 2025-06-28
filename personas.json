@@ -1,5 +1,17 @@
 [
-  {"name":"Hiram","age":23,"isStudent":true},
-  {"name":"Rodrigo","age":25,"isStudent":false},
-  {"name":"Miguel","age":33,"isStudent":true}
+  {"name":"Hiram","age":23,"isStudent":true, "hobbies": [
+    "programar",
+    "nadar",
+    "llorar"
+  ]},
+  {"name":"Rodrigo","age":25,"isStudent":false,"hobbies": [
+    "programar",
+    "nadar",
+    "llorar"
+  ]},
+  {"name":"Miguel","age":33,"isStudent":true, "hobbies": [
+    "programar",
+    "nadar",
+    "llorar"
+  ]}
 ]
