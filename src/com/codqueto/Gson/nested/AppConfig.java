@@ -12,6 +12,7 @@ import lombok.ToString;
 public class AppConfig {
     private String appName;
     private String version;
+    private Configurations settings;
 
     @AllArgsConstructor
     @Getter
