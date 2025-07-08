@@ -11,7 +11,7 @@ import java.util.List;
 public class TaskController {
     private final TaskRepository taskRepository;
 
-    TaskController() {
+    public TaskController() {
         this.taskRepository = new TaskRepository();
     }
 
